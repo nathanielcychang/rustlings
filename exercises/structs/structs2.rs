@@ -1,7 +1,6 @@
 // structs2.rs
 // Address all the TODOs to make the tests pass!
 
-
 #[derive(Debug)]
 struct Order {
     name: String,
